@@ -1,0 +1,50 @@
+
+product_id,name,category,color,material,price,description
+101,Banarasi Silk Saree,Saree,Red,Silk,4500,Traditional Banarasi silk saree
+102,Chanderi Cotton Saree,Saree,Blue,Cotton,2200,Lightweight Chanderi saree
+103,Kanjivaram Bridal Saree,Saree,Maroon,Silk,8500,Premium bridal silk saree
+104,Printed Georgette Saree,Saree,Yellow,Georgette,1800,Floral printed georgette saree
+105,Bandhani Saree,Saree,Pink,Cotton,2500,Traditional Bandhani saree
+106,Organza Party Saree,Saree,Peach,Organza,3200,Elegant party wear saree
+107,Paithani Silk Saree,Saree,Green,Silk,6500,Traditional Paithani saree
+108,Linen Casual Saree,Saree,White,Linen,1900,Comfortable linen saree
+109,Anarkali Kurta Set,Kurta,Blue,Cotton,2100,Embroidered Anarkali kurta set
+110,Chikankari Kurta,Kurta,White,Cotton,1600,Lucknowi chikankari kurta
+111,Straight Fit Kurta,Kurta,Green,Rayon,1200,Everyday straight fit kurta
+112,Floral Printed Kurta,Kurta,Pink,Viscose,1450,Floral printed casual kurta
+113,Silk Festive Kurta,Kurta,Maroon,Silk,2800,Festive silk kurta
+114,Block Print Kurta,Kurta,Yellow,Cotton,1350,Hand block printed kurta
+115,Embroidered Kurta,Kurta,Beige,,1900,Traditional embroidered kurta
+116,Indigo Casual Kurta,Kurta,Blue,Cotton,1250,Indigo printed casual kurta
+117,Velvet Bridal Lehenga,Lehenga,Red,Velvet,12000,Heavy bridal velvet lehenga
+118,Floral Net Lehenga,Lehenga,Pink,Net,7500,Floral embroidered net lehenga
+119,Mirror Work Lehenga,Lehenga,Green,Silk,9500,Mirror work festive lehenga
+120,Sequin Party Lehenga,Lehenga,Black,Georgette,6800,Sequin party wear lehenga
+121,Pastel Bridal Lehenga,Lehenga,Peach,Silk,14500,Pastel bridal lehenga
+122,Bandhani Lehenga,Lehenga,Yellow,Cotton,4200,Traditional Bandhani lehenga
+123,Embroidered Lehenga,Lehenga,Blue,Georgette,8200,Embroidered festive lehenga
+124,Organza Lehenga,Lehenga,Lavender,Organza,5900,Lightweight organza lehenga
+125,Royal Wedding Sherwani,Sherwani,Cream,Silk,11000,Traditional wedding sherwani
+126,Embroidered Sherwani,Sherwani,Gold,Brocade,13500,Gold embroidered sherwani
+127,Indo Western Sherwani,Sherwani,Black,Velvet,9800,Modern Indo Western sherwani
+128,Jacquard Sherwani,Sherwani,Blue,Jacquard,8500,Jacquard wedding sherwani
+129,Pastel Sherwani,Sherwani,Peach,Silk,9200,Pastel festive sherwani
+130,Floral Print Sherwani,Sherwani,Green,Cotton,5500,Floral printed sherwani
+131,Velvet Party Sherwani,Sherwani,Maroon,Velvet,10500,Velvet party wear sherwani
+132,Classic Ivory Sherwani,Sherwani,Ivory,Silk,12500,Classic ivory wedding sherwani
+133,Banarasi Silk Dupatta,Dupatta,Red,Silk,1800,Traditional Banarasi dupatta
+134,Phulkari Embroidered Dupatta,Dupatta,Yellow,Cotton,1200,Colourful Phulkari dupatta
+135,Chiffon Party Dupatta,Dupatta,Black,Chiffon,950,Lightweight chiffon dupatta
+136,Net Embroidered Dupatta,Dupatta,Pink,Net,1600,Embroidered net dupatta
+137,Bandhani Dupatta,Dupatta,Blue,Cotton,1100,Traditional Bandhani dupatta
+138,Georgette Printed Dupatta,Dupatta,Green,Georgette,850,Printed georgette dupatta
+139,Chanderi Festive Dupatta,Dupatta,Peach,Chanderi,1400,Chanderi festive dupatta
+140,Mirror Work Dupatta,Dupatta,Maroon,Silk,2100,Mirror work silk dupatta
+105,Bandhani Saree,Saree,Pink,Cotton,2500,Traditional Bandhani saree
+112,Floral Printed Kurta,Kurta,Pink,Viscose,1450,Floral printed casual kurta
+125,Royal Wedding Sherwani,Sherwani,Cream,Silk,11000,Traditional wedding sherwani
+141,  Embroidered Dupatta  , dupatta , Pink , Silk , 1500 , Hand embroidered dupatta
+142,Printed Cotton Saree,Saree,,Cotton,1700,Printed cotton saree
+143,Floral Kurta,Kurta,Blue,,1400,Floral casual kurta
+144,   ,Kurta,Red,Cotton,1200,Product name missing
+,Designer Dupatta,Dupatta,Green,Silk,1900,Product ID missing
