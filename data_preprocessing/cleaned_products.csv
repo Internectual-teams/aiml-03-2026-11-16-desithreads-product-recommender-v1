@@ -1,0 +1,44 @@
+product_id,name,category,color,material
+101.0,Banarasi Silk Saree,Saree,Red,Silk
+102.0,Chanderi Cotton Saree,Saree,Blue,Cotton
+103.0,Kanjivaram Bridal Saree,Saree,Maroon,Silk
+104.0,Printed Georgette Saree,Saree,Yellow,Georgette
+105.0,Bandhani Saree,Saree,Pink,Cotton
+106.0,Organza Party Saree,Saree,Peach,Organza
+107.0,Paithani Silk Saree,Saree,Green,Silk
+108.0,Linen Casual Saree,Saree,White,Linen
+109.0,Anarkali Kurta Set,Kurta,Blue,Cotton
+110.0,Chikankari Kurta,Kurta,White,Cotton
+111.0,Straight Fit Kurta,Kurta,Green,Rayon
+112.0,Floral Printed Kurta,Kurta,Pink,Viscose
+113.0,Silk Festive Kurta,Kurta,Maroon,Silk
+114.0,Block Print Kurta,Kurta,Yellow,Cotton
+115.0,Embroidered Kurta,Kurta,Beige,Unknown
+116.0,Indigo Casual Kurta,Kurta,Blue,Cotton
+117.0,Velvet Bridal Lehenga,Lehenga,Red,Velvet
+118.0,Floral Net Lehenga,Lehenga,Pink,Net
+119.0,Mirror Work Lehenga,Lehenga,Green,Silk
+120.0,Sequin Party Lehenga,Lehenga,Black,Georgette
+121.0,Pastel Bridal Lehenga,Lehenga,Peach,Silk
+122.0,Bandhani Lehenga,Lehenga,Yellow,Cotton
+123.0,Embroidered Lehenga,Lehenga,Blue,Georgette
+124.0,Organza Lehenga,Lehenga,Lavender,Organza
+125.0,Royal Wedding Sherwani,Sherwani,Cream,Silk
+126.0,Embroidered Sherwani,Sherwani,Gold,Brocade
+127.0,Indo Western Sherwani,Sherwani,Black,Velvet
+128.0,Jacquard Sherwani,Sherwani,Blue,Jacquard
+129.0,Pastel Sherwani,Sherwani,Peach,Silk
+130.0,Floral Print Sherwani,Sherwani,Green,Cotton
+131.0,Velvet Party Sherwani,Sherwani,Maroon,Velvet
+132.0,Classic Ivory Sherwani,Sherwani,Ivory,Silk
+133.0,Banarasi Silk Dupatta,Dupatta,Red,Silk
+134.0,Phulkari Embroidered Dupatta,Dupatta,Yellow,Cotton
+135.0,Chiffon Party Dupatta,Dupatta,Black,Chiffon
+136.0,Net Embroidered Dupatta,Dupatta,Pink,Net
+137.0,Bandhani Dupatta,Dupatta,Blue,Cotton
+138.0,Georgette Printed Dupatta,Dupatta,Green,Georgette
+139.0,Chanderi Festive Dupatta,Dupatta,Peach,Chanderi
+140.0,Mirror Work Dupatta,Dupatta,Maroon,Silk
+141.0,Embroidered Dupatta,Dupatta,Pink,Silk
+142.0,Printed Cotton Saree,Saree,Unknown,Cotton
+143.0,Floral Kurta,Kurta,Blue,Unknown
